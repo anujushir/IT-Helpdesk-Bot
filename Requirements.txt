@@ -1,0 +1,17 @@
+# Core
+streamlit==1.37.1
+
+# LangChain ecosystem
+langchain==0.2.11
+langchain-core==0.2.23
+langchain-community==0.2.10
+langchain-text-splitters==0.2.1
+langchain-ollama==0.1.4
+
+# PDF handling
+pdfplumber==0.11.0
+
+# Utils
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.3
