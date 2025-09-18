@@ -1,6 +1,10 @@
-streamlit>=1.36.0
-langchain>=0.2.0
-langchain-community>=0.2.0
-langchain-text-splitters>=0.2.0
-langchain-ollama>=0.2.0
-pdfplumber>=0.11.0
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-ollama
+pdfplumber
+pandas
+numpy
+requests
